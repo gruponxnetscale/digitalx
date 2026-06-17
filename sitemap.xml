@@ -1,24 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://clinicadigitalx.com.br/</loc></url>
-<url><loc>https://clinicadigitalx.com.br/contato/</loc></url>
-<url><loc>https://clinicadigitalx.com.br/duvidas/</loc></url>
-<url><loc>https://clinicadigitalx.com.br/exames/</loc></url>
-<url><loc>https://clinicadigitalx.com.br/para-dentistas/</loc></url>
-<url><loc>https://clinicadigitalx.com.br/mapa-do-site/</loc></url>
-<url><loc>https://clinicadigitalx.com.br/servicos/cefalometria-tubarao/</loc></url>
-<url><loc>https://clinicadigitalx.com.br/servicos/documentacao-ortodontica-tubarao/</loc></url>
-<url><loc>https://clinicadigitalx.com.br/servicos/escaneamento-intrabucal-tubarao/</loc></url>
-<url><loc>https://clinicadigitalx.com.br/servicos/levantamento-periapical-tubarao/</loc></url>
-<url><loc>https://clinicadigitalx.com.br/servicos/panoramica-odontologica-tubarao/</loc></url>
-<url><loc>https://clinicadigitalx.com.br/servicos/periapical-tubarao/</loc></url>
-<url><loc>https://clinicadigitalx.com.br/servicos/raio-x-do-dente-tubarao/</loc></url>
-<url><loc>https://clinicadigitalx.com.br/servicos/raio-x-odontologico-tubarao/</loc></url>
-<url><loc>https://clinicadigitalx.com.br/servicos/tomografia-atm-tubarao/</loc></url>
-<url><loc>https://clinicadigitalx.com.br/servicos/tomografia-computadorizada-tubarao/</loc></url>
-<url><loc>https://clinicadigitalx.com.br/servicos/tomografia-de-face-tubarao/</loc></url>
-<url><loc>https://clinicadigitalx.com.br/servicos/tomografia-do-dente-tubarao/</loc></url>
-<url><loc>https://clinicadigitalx.com.br/servicos/tomografia-localizada-do-dente-tubarao/</loc></url>
-<url><loc>https://clinicadigitalx.com.br/servicos/tomografia-odontologica-tubarao/</loc></url>
-<url><loc>https://clinicadigitalx.com.br/servicos/tomografia-seio-da-face-tubarao/</loc></url>
+  <url>
+    <loc>https://www.digitalxtubarao.com.br/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.digitalxtubarao.com.br/exames</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.digitalxtubarao.com.br/para-dentistas</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.digitalxtubarao.com.br/duvidas</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.digitalxtubarao.com.br/contato</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.digitalxtubarao.com.br/mapa-do-site</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.digitalxtubarao.com.br/servicos/raio-x-odontologico-tubarao</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.digitalxtubarao.com.br/servicos/raio-x-do-dente-tubarao</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.digitalxtubarao.com.br/servicos/panoramica-odontologica-tubarao</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.digitalxtubarao.com.br/servicos/tomografia-odontologica-tubarao</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.digitalxtubarao.com.br/servicos/tomografia-computadorizada-tubarao</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.digitalxtubarao.com.br/servicos/escaneamento-intrabucal-tubarao</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.digitalxtubarao.com.br/servicos/documentacao-ortodontica-tubarao</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.digitalxtubarao.com.br/servicos/periapical-tubarao</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.digitalxtubarao.com.br/servicos/levantamento-periapical-tubarao</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.digitalxtubarao.com.br/servicos/tomografia-de-face-tubarao</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.digitalxtubarao.com.br/servicos/tomografia-do-dente-tubarao</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.digitalxtubarao.com.br/servicos/tomografia-atm-tubarao</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.digitalxtubarao.com.br/servicos/cefalometria-tubarao</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.digitalxtubarao.com.br/servicos/tomografia-seio-da-face-tubarao</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.digitalxtubarao.com.br/servicos/tomografia-localizada-do-dente-tubarao</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
